@@ -1,0 +1,17 @@
+C:\Users\Adam White\Desktop\My Labs\Lab17TDD\Lab17TDD\obj\Debug\Lab17TDD.csproj.CoreCompileInputs.cache
+C:\Users\Adam White\Desktop\My Labs\Lab17TDD\Lab17TDD\bin\Debug\xunit.abstractions.dll
+C:\Users\Adam White\Desktop\My Labs\Lab17TDD\Lab17TDD\bin\Debug\xunit.runner.visualstudio.testadapter.dll
+C:\Users\Adam White\Desktop\My Labs\Lab17TDD\Lab17TDD\bin\Debug\xunit.runner.reporters.net452.dll
+C:\Users\Adam White\Desktop\My Labs\Lab17TDD\Lab17TDD\bin\Debug\xunit.runner.utility.net452.dll
+C:\Users\Adam White\Desktop\My Labs\Lab17TDD\Lab17TDD\bin\Debug\Lab17TDD.exe.config
+C:\Users\Adam White\Desktop\My Labs\Lab17TDD\Lab17TDD\bin\Debug\Lab17TDD.exe
+C:\Users\Adam White\Desktop\My Labs\Lab17TDD\Lab17TDD\bin\Debug\Lab17TDD.pdb
+C:\Users\Adam White\Desktop\My Labs\Lab17TDD\Lab17TDD\bin\Debug\xunit.assert.dll
+C:\Users\Adam White\Desktop\My Labs\Lab17TDD\Lab17TDD\bin\Debug\xunit.core.dll
+C:\Users\Adam White\Desktop\My Labs\Lab17TDD\Lab17TDD\bin\Debug\xunit.execution.desktop.dll
+C:\Users\Adam White\Desktop\My Labs\Lab17TDD\Lab17TDD\bin\Debug\xunit.assert.xml
+C:\Users\Adam White\Desktop\My Labs\Lab17TDD\Lab17TDD\bin\Debug\xunit.core.xml
+C:\Users\Adam White\Desktop\My Labs\Lab17TDD\Lab17TDD\bin\Debug\xunit.execution.desktop.xml
+C:\Users\Adam White\Desktop\My Labs\Lab17TDD\Lab17TDD\obj\Debug\Lab17TDD.csproj.CopyComplete
+C:\Users\Adam White\Desktop\My Labs\Lab17TDD\Lab17TDD\obj\Debug\Lab17TDD.exe
+C:\Users\Adam White\Desktop\My Labs\Lab17TDD\Lab17TDD\obj\Debug\Lab17TDD.pdb
